@@ -1,0 +1,63 @@
+body {
+  background-color: #f2f6ff;
+  margin: 0;
+  padding: 16px;
+}
+
+form {
+  background-color: white;
+  text-align: center;
+  width: 700px;
+  margin: auto;
+  border: 1px solid #ccc;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+  padding: 16px 32px;
+}
+
+h1 {
+  font-size: 32px;
+  padding-top: 56px;
+  padding-bottom: 32px;
+}
+
+.social-media-logo {
+  background-color: #f2f6ff;
+}
+
+.input-form {
+  padding-top: 80px;
+  padding-bottom: 40px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.input-box {
+  font-size: 18px;
+  padding-bottom: 12px;
+  margin-bottom: 36px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+}
+
+#submit-button {
+  background-color: #0056ff;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 24px;
+  padding-right: 24px;
+  font-size: 18px;
+  color: white;
+  border: none;
+  margin-bottom: 50px;
+}
+
+.author {
+  background-color: #f2f6ff;
+}
